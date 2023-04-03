@@ -1,4 +1,4 @@
-# Dijkstra-Shortest-Path-Demo
+# Finding-Dory-Demo
 This project is a demonstration of finding the shortest path by Dijkstra algorithm.
 
 The project is written in Python. I also use some other libraries, such as Tkinter for making the GUI, Matplotlib for visualizing.
